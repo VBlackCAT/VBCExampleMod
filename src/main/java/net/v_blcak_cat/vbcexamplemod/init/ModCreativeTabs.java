@@ -22,6 +22,7 @@ public class ModCreativeTabs {
                     .displayItems((parameters, output) -> {
                         output.accept(ModItems.EXAMPLE_FOOD.get());
                         output.accept(ModItems.EXAMPLE_BLOCK_ITEM.get());
+                        output.accept(ModItems.EXAMPLE_SPAWN_EGG.get());
                     })
                     .build());
 

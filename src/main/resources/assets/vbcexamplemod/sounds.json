@@ -1,0 +1,8 @@
+{
+  "example_sound": {
+    "sounds": [
+      "vbcexamplemod:example_sound"
+    ],
+    "subtitle": "example_sound"
+  }
+}

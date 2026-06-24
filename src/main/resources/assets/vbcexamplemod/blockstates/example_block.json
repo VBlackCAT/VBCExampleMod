@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vbcexamplemod:block/ex_block"
+    }
+  }
+}
